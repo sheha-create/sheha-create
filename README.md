@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 **sheha-create/sheha-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 💫 About Me:
@@ -17,8 +15,8 @@ I am a  aspiring cse student <br>I am interested in c,python<br>I have created f
 ![](https://nirzak-streak-stats.vercel.app/?user=sheha-create&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sheha-create&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=sheha-create&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
