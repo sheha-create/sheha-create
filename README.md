@@ -1,22 +1,74 @@
+<h1 align="center">Hi, I'm Shehana Safreen 👋</h1>
+<h3 align="center">CSE student building AI/ML systems and shipping them as live full-stack apps</h3>
 
-**sheha-create/sheha-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://linkedin.com/in/shehana-safreen"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shehana201206@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sheha-create&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</p>
 
-# 💫 About Me:
-I am a  aspiring cse student <br>I am interested in c,python<br>I have created few projects for upskilling<br>I am an Ai enthusiast<br>
+---
 
+### 🙋‍♀️ About me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shehana-safreen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shehana201206@gmail.com) 
+- 🎓 B.E. Computer Science & Engineering at **K.L.N. College of Engineering, Madurai** (CGPA 8.66)
+- 🧠 Working on **AI/ML**, **full-stack development**, and **cloud platforms**
+- 🔬 Co-author: *A Noise Constrained Approach to Quantum Neural Network Design for NISQ Devices*
+- ☁️ Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
+- 💼 Internships: Microsoft Azure (AICTE/Microsoft Elevate), AI & ML (AICTE/Edunet Foundation), Intellara AI Labs, FlyRank AI Fluency
+- 📍 Madurai, Tamil Nadu · open to opportunities in Bengaluru, Chennai, and Hyderabad
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sheha-create&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sheha-create&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sheha-create&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🛠️ Tech stack
 
+<p>
+  <img src="https://skillicons.dev/icons?i=py,c,java,js,ts,html,react,nextjs,nodejs,fastapi,tensorflow,mysql,supabase,gcp,aws,azure,vercel,netlify,figma,git&perline=10" alt="Tech stack" />
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=sheha-create&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🚀 Featured projects
 
+| Project | What it does | Stack |
+|---|---|---|
+| [**AI Candidate Ranking System**](https://github.com/sheha-create/AI_Candidate_Ranking_System) | Hybrid recruiter agent: parses job descriptions, filters candidates semantically, and ranks them with an LLM-as-a-judge step that produces rationales | Python, LLMs |
+| [**Startup Blueprint Generator**](https://github.com/sheha-create/startup_blueprint_generator) | Turns a plain-language startup idea into a business model canvas, budget estimate, and go-to-market plan | IBM Granite, RAG, FAISS |
+| [**FinGuard**](https://github.com/sheha-create/FinGuard) | Real-time AML and transaction fraud analyzer: ML anomaly scoring plus a live transaction graph to catch laundering patterns | Python, FastAPI |
+| [**QuantumShield**](https://github.com/sheha-create/Quantum_sheild) | Post-quantum cryptography secure cloud storage | Python, FastAPI, Streamlit |
+| [**Privacy Guardian Agent**](https://github.com/sheha-create/privacy_concierge_agent) | Concierge agent for documents and bills with on-device PII detection and redaction | TypeScript, Next.js |
+| [**AI Mock Interview**](https://github.com/sheha-create/ai_mock_interview) | Adaptive, timed interviews tailored to your resume and a target job, with a structured evaluation report | TypeScript |
+| [**CYBERNET Security Monitor**](https://github.com/sheha-create/cybernet) | Deployable security monitor for a Node.js service: request-rate thresholds, injection signatures, live host metrics | TypeScript, Node.js |
+| [**AWS VPC Peering**](https://github.com/sheha-create/AWS_PROJECT) | Connects two VPCs and proves private connectivity ([live showcase](https://sheha-create.github.io/AWS_PROJECT/)) | AWS, Terraform |
+| [**Cinematic Portfolio**](https://github.com/sheha-create/shehana-portfolio) | Scroll-driven frame-sequence portfolio site | Vite, React, TypeScript, GSAP |
 
+<details>
+<summary><b>More projects</b></summary>
 
+&nbsp;
+
+| Project | Focus |
+|---|---|
+| [Food Label Analyzer](https://github.com/sheha-create/food_label_analyzer) | NLP analysis of food labels (IBM Watson) |
+| [RAG Document Assistant](https://github.com/sheha-create/RAG-Document-Assistant) | Retrieval-augmented document Q&A |
+| [Heart Disease Detection](https://github.com/sheha-create/Heart_disease_detection) | Logistic Regression, KNN, Random Forest, and XGBoost compared on the UCI Cleveland dataset |
+| [Student Performance Predictor](https://github.com/sheha-create/students_performance_predictor) | Exam score prediction from behavioral and demographic factors |
+| [House Price Detector](https://github.com/sheha-create/House_price_detector) | Linear regression suite on the Kaggle Ames housing dataset |
+| [Sentiment Analyze](https://github.com/sheha-create/sentiment_analyze) | Sentiment analysis |
+| [QNAS](https://github.com/sheha-create/QNAS) | Quantum neural architecture search |
+| [Courier Tracking System](https://github.com/sheha-create/courier_tracking_system) | Java application |
+| [Portfolio Capstone](https://github.com/sheha-create/portfolio_capstone) | TypeScript portfolio project |
+
+</details>
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.profile-readme-generator.com/api?username=sheha-create&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=sheha-create&layout=compact&langs_count=6&theme=dracula" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sheha-create&theme=dracula" alt="GitHub streak" />
+</p>
+
+### 🌱 Currently
+
+- Building AI/ML and LLM-powered projects and competing in hackathons
+- Looking for AI/ML, LLM engineering, and Python roles
